@@ -1,0 +1,7 @@
+{
+    "events": {
+      "restart": "pkill -f chromium",
+      "start": "pkill -f chromium"
+    }
+}
+  
